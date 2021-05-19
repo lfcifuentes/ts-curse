@@ -23,3 +23,4 @@ typings/
 # js
 /funciones/*.js
 /tipos_de_datos/*.js
+/clases/*.js
